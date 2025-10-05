@@ -1,4 +1,4 @@
-# Tictactoe Android App <a href="https://github.com/Abdullah-Sheikh"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=Abdullah-Sheikh&style=flat-square" width="125"/></a>[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#) [![GitHub Forks](https://img.shields.io/github/forks/Abdullah-Sheikh/Tictactoe_in_Android.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/Abdullah/Tictactoe_in_Android//fork)[![GitHub Issues](https://img.shields.io/github/issues/Abdullah-Sheikh/Tictactoe_in_Android/.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/Abdullah-Sheikh/management-System/issues)[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
+# Tictactoe Android App <a href="https://github.com/Aman-Agrawal"><img alt="views" title="Github views" width="125"/></a>[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#) [![GitHub Forks](https://img.shields.io/github/forks/Aman-Agrawal/Tictactoe_in_Android.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/Aman-Agrawal/android_tictactoe//fork)[![GitHub Issues](https://img.shields.io/github/issues/Aman-Agrawal/android_tictactoe/.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/Abdullah-Sheikh/management-System/issues)[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 
 
 
@@ -35,7 +35,7 @@ The Tic Tac Toe is a great way to pass your free time whether you're standing in
 
 
 
-<a href="https://play.google.com/store/apps/details?id=com.techsoldev.tictactoegame" target="_blank"> <img src="https://user-images.githubusercontent.com/62107887/130696039-68b4276e-8b78-4eb6-8aa9-ac2ac681e828.png" width="150" height="70" > </a>
+<a href="https://play.google.com/store/apps/details?id=com.aman1603.tictactoe" target="_blank"> <img src="https://user-images.githubusercontent.com/62107887/130696039-68b4276e-8b78-4eb6-8aa9-ac2ac681e828.png" width="150" height="70" > </a>
 
 
 
